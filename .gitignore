@@ -1,0 +1,6 @@
+build/
+*.vcd
+*.fst
+*.wdb
+*.jou
+*.log
