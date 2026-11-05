@@ -17,6 +17,6 @@ make synth
 
 Design sources are in `rtl/`, directed tests in `tb/`, and interface, architecture, testing and measured results in `docs/`.
 
-**Scope:** Needs physical CDC constraints and FPGA implementation analysis before board integration.
+**Architecture:** Parameterized dual-clock ready/valid FIFO with synchronized Gray pointers and per-domain resets.
 
 Project owner: Sundaram S S.
