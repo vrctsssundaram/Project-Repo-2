@@ -1,4 +1,4 @@
-# SafeCDC-Stream
+# Dual-clock stream FIFO
 
 Dual-clock ready/valid FIFO using synchronized Gray-coded pointers.
 
